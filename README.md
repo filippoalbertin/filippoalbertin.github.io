@@ -6,31 +6,18 @@ Un economista aziendale prestato al mondo della ***consulenza*** operativa, con 
 
 # Se vuoi...
 
-<details>
-  <summary>Clicca qui</summary>
-
 * Contattarmi per una consulenza in generale: **filippo@completservice.eu**
 * Contattarmi per una consulenza su blockchain e cryptomonete: **filippo@bitcoinvenetocenter.it**
 * Contattarmi per faccende non catalogabili in modo preciso: **albertin@tuta.io**
 * Contattarmi telefonicamente o via chat (Whatsapp, Telegram): **+39 350 511 2899**
 
-</details>
-
 # My jobs
-
-<details>
-  <summary>Clicca qui</summary>
 
 * [Complet Service Srls](http://www.completservice.eu) - Consulenza e coordinamento progetti individuali, aziendali e istituzionali
 * [Bitcoin Veneto Center](http://www.bitcoinvenetocenter.it) - Consulenza operativa e operazioni crypto e blockchain (Italia, Svizzera)
 * [Veneto Cyber Security](http://www.venetocybersecurity.it) - Protezione globale attacchi informatici per privati e aziende
 
-</details>
-
 # Quello che faccio *nello specifico*
-
-<details>
-  <summary>Clicca qui</summary>
 
 * In generale, risolvo problemi, disegno processi organizzativi e attivo (oltre a me stesso) professionisti sia italiani che esteri (consulenti, avvocati, programmatori, esperti in valute digitali, fintech, crypto, DeFi e blockchain) per realizzare progetti.
 * Seguo passo passo acquisti e transazioni in crypto, anche di elevati o elevatissimi volumi (OTC).
@@ -40,8 +27,6 @@ Un economista aziendale prestato al mondo della ***consulenza*** operativa, con 
 * Mi occupo di formazione di base su temi come moneta, moneta digitale, principi macroeconomici, questioni emergenti legate alla token economy e alla decentralizzazione finanziaria, soprattutto in collaborazione con istituzioni e soggetti politici.
 * Solo per soggetti qualificati e cooptati mi occupo di transazioni in regime di no-kyc.
 * Essendo un musicista professionista (pianista, compositore e docente) con una lunga frequentazione nei campi del teatro e delle arti performative, posso fornire su richiesta di registi, compagnie e singoli utenti percorsi connessi alla musica strumentale, al canto e al suo uso scenico, ma questa è decisamente un'altra storia.
-
-</details>
 
 # Nel Web
 
