@@ -2,9 +2,7 @@
 
 # Blog
 
------
+Alcune considerazioni su corruzione e memoria, in due articoli, a mio avviso più interessanti se letti insieme.
 
-Alcune considerazioni su corruzione e memoria, in due articoli.
-
-https://palmbeach.vivaldi.net/2024/06/03/3033/
-https://palmbeach.vivaldi.net/2024/05/24/guerre-stellari-e-corruzione-terrestre/
+* https://palmbeach.vivaldi.net/2024/06/03/3033/
+* https://palmbeach.vivaldi.net/2024/05/24/guerre-stellari-e-corruzione-terrestre/
