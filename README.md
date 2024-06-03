@@ -2,4 +2,6 @@
 
 # Blog
 
+## 02/06/2024
+
 Alcune considerazioni su [corruzione](https://palmbeach.vivaldi.net/2024/06/03/3033/) e [memoria](https://palmbeach.vivaldi.net/2024/05/24/guerre-stellari-e-corruzione-terrestre/), in due articoli, a mio avviso più interessanti se letti insieme.
