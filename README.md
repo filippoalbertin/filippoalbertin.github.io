@@ -4,10 +4,10 @@ Un economista aziendale prestato al mondo della ***consulenza*** operativa, con 
 
 **A latere:** Parallelamente agli studi accademici ho concluso anche quelli conservatoriali (pianoforte), e per molto tempo ho seguito progetti artistici (teatro, arti performative) come compositore ed esecutore di musiche originali.
 
+# Se vuoi...
+
 <details>
   <summary>Clicca qui</summary>
-
-# Se vuoi...
 
 * Contattarmi per una consulenza in generale: **filippo@completservice.eu**
 * Contattarmi per una consulenza su blockchain e cryptomonete: **filippo@bitcoinvenetocenter.it**
@@ -16,10 +16,10 @@ Un economista aziendale prestato al mondo della ***consulenza*** operativa, con 
 
 </details>
 
+# My jobs
+
 <details>
   <summary>Clicca qui</summary>
-
-# My jobs
 
 * [Complet Service Srls](http://www.completservice.eu) - Consulenza e coordinamento progetti individuali, aziendali e istituzionali
 * [Bitcoin Veneto Center](http://www.bitcoinvenetocenter.it) - Consulenza operativa e operazioni crypto e blockchain (Italia, Svizzera)
@@ -27,10 +27,10 @@ Un economista aziendale prestato al mondo della ***consulenza*** operativa, con 
 
 </details>
 
+# Quello che faccio *nello specifico*
+
 <details>
   <summary>Clicca qui</summary>
-
-# Quello che faccio *nello specifico*
 
 * In generale, risolvo problemi, disegno processi organizzativi e attivo (oltre a me stesso) professionisti sia italiani che esteri (consulenti, avvocati, programmatori, esperti in valute digitali, fintech, crypto, DeFi e blockchain) per realizzare progetti.
 * Seguo passo passo acquisti e transazioni in crypto, anche di elevati o elevatissimi volumi (OTC).
