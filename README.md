@@ -6,6 +6,8 @@ Come visual thinker, consulente ed esperto di sketchnote ho lavorato con importa
 
 ![sketchnote](https://social-cdn.vivaldi.net/system/media_attachments/files/112/443/946/618/155/226/original/2fbab23ed7168c96.jpg)
 
+# Cryptosfera
+
 Per qualsiasi consulenza specifica legata al mondo crypto e blockchain, sono reperibile attraverso [Complet Service](https://completservice.eu/) come membro del [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it/). Nella sezione *chi sono* trovi il dettaglio dei miei servizi al cliente.
 
 # Per seguirmi
