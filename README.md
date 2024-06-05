@@ -4,7 +4,7 @@
 
 Come visual thinker, consulente ed esperto di sketchnote ho lavorato con importanti nomi e istituzioni legate all'innovazione e alla creatività. Trovi alcuni (pochissimi) dei miei (infiniti) lavori su [Pinterest](https://it.pinterest.com/philalb3rtin/sketchnotes). Per consulenze, seminari e workshop in materia, contattami in privato attraverso i recapiti nella sezione *chi sono*.
 
-![sketchnote](https://social-cdn.vivaldi.net/system/media_attachments/files/112/443/946/618/155/226/original/2fbab23ed7168c96.jpg)
+![sketchnote](https://social-cdn.vivaldi.net/system/media_attachments/files/112/443/788/770/621/392/original/979b6c99089b9a54.jpg)
 
 # Cryptosfera
 
