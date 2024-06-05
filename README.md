@@ -4,9 +4,7 @@
 
 Come visual thinker, consulente ed esperto di sketchnote ho lavorato con importanti nomi e istituzioni legate all'innovazione e alla creatività. Trovi alcuni (pochissimi) dei miei (infiniti) lavori su [Pinterest](https://it.pinterest.com/philalb3rtin/sketchnotes). Per consulenze, seminari e workshop in materia, contattami in privato attraverso i recapiti nella sezione *chi sono*.
 
-![sketchnote](https://social-cdn.vivaldi.net/system/media_attachments/files/112/321/161/867/638/397/original/6a2d962a41237e87.jpg)
-
-# Bitcoin, Altcoin, Stablecoin, Blockchain
+![sketchnote](https://social-cdn.vivaldi.net/system/media_attachments/files/112/443/946/618/155/226/original/2fbab23ed7168c96.jpg)
 
 Per qualsiasi consulenza specifica legata al mondo crypto e blockchain, sono reperibile attraverso [Complet Service](https://completservice.eu/) come membro del [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it/). Nella sezione *chi sono* trovi il dettaglio dei miei servizi al cliente.
 
