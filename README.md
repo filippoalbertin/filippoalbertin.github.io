@@ -10,6 +10,10 @@ Come visual thinker, consulente ed esperto di sketchnote ho lavorato con importa
 
 Per qualsiasi consulenza specifica legata al mondo crypto e blockchain, sono reperibile attraverso [Complet Service](https://completservice.eu/) come membro del [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it/). Nella sezione *chi sono* trovi il dettaglio dei miei servizi al cliente.
 
+Preciso che tutti i miei servigi diretti sono saldabili attraverso cryptomoneta, con una scontistica pari al 9-10% sui prezzi di listino in valute classiche. Nello specifico, oltre alle principali crypto (Bitcoin, DASH, Litecoin, NANO, TON, e stablecoin, ovviamente solo per citarne alcune), sono particolarmente legato alla crypto e privacy-coin [Monero](https://www.getmonero.org), al cui programma di economia circolare aderisco con entusiasmo.
+
+![moneropledge](https://files.mastodon.social/media_attachments/files/112/624/666/648/329/684/original/4459ef7c434758fd.jpg)
+
 # Per seguirmi
 
 In [Phil Autonomous Zone](https://filippoalbertin.substack.com/) (Substack newsletter, a pagamento) pubblico lezioni, tutorial e approfondimenti sulle materie che tratto (finanza, crypto, innovazione, creatività, visual thinking), con informazioni aggiuntive non reperibili altrove.
