@@ -19,3 +19,5 @@ Preciso che tutti i miei servigi diretti sono saldabili attraverso cryptomoneta,
 In [Phil Autonomous Zone](https://filippoalbertin.substack.com/) (Substack newsletter, a pagamento) pubblico lezioni, tutorial e approfondimenti sulle materie che tratto (finanza, crypto, innovazione, creatività, visual thinking), con informazioni aggiuntive non reperibili altrove.
 
 Come microblog "minuto per minuto" uso [Mastodon](https://social.vivaldi.net/@palmbeach).
+
+Per tutti gli altri miei recapiti fai un salto in questa [pagina](https://filippoalbertin.github.io/about-me/).
