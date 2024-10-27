@@ -1,2 +1,13 @@
-# filippoalbertin.github.io
-Pagina Github Ufficiale di Filippo Albertin
+# Filippo Albertin Official Github Page
+
+## Monero Citcular Economy Pledge
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184baa19-8841-4044-8a55-4daf34debcd7_800x400.png)
+
+Aderisco con entusiasmo a questo progetto basato su Monero, la più celebre privacy coin.
+
+https://moneromaster.substack.com/p/mcep
+
+## Post-Cypher Manifesto
+
+https://app.simplenote.com/p/7HGTGF
