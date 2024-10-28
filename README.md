@@ -1,4 +1,14 @@
-# Monero Circular Economy Pledge
+# About Me
+
+Il mio sito ufficiale si collega direttamente al mio [blog principale](http://filippoalbertin.eu), dove in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti.
+
+# Progetti Crypto
+
+## My job
+
+Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog).
+
+## Monero Circular Economy Pledge
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184baa19-8841-4044-8a55-4daf34debcd7_800x400.png)
 
