@@ -1,8 +1,8 @@
 # About Me
 
-Il mio sito ufficiale si collega direttamente al mio [blog principale](http://filippoalbertin.eu), dove in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti.
+Il mio sito ufficiale si collega direttamente al mio [blog principale](http://filippoalbertin.eu), dove in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti. Mi trovate pure su [Twitter/X](https://x.com/creativephil75), su [Bluesky](https://bsky.app/profile/filippoalbertin.bsky.social) e su [Mastodon](https://mastodon.social/home). Inoltre scrivo in vari blog ulteriori, come [Creative Phil Blog](https://creativephilblog.wordpress.com/).
 
-# Progetti Crypto
+# Progetti Crypto (Bitcoin, Altcoin, Stablecoin, Blockchain)
 
 ## My job
 
