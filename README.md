@@ -14,10 +14,8 @@ Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin V
 
 Aderisco con entusiasmo a questo progetto basato su Monero, la più celebre privacy coin.
 
-[https://moneromaster.substack.com/p/mcep](https://moneromaster.substack.com/p/mcep)
+[MCEP](https://moneromaster.substack.com/p/mcep)
 
-## Post-Cypher Manifesto
-
-[https://app.simplenote.com/p/7HGTGF](https://app.simplenote.com/p/7HGTGF)
+## [Post-Cypher Manifesto](https://app.simplenote.com/p/7HGTGF)
 
 Informazioni: *albertin@tuta.io*
