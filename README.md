@@ -1,14 +1,16 @@
-Filippo Albertin, classe 1975, padovano di nascita, vicentino di adozione. Di formazione sia artistica (pianista e compositore conservatoriale) che economico-aziendale, mi sono sempre occupato di progetti, creatività, pensiero laterale, coaching e visual thinking, con una specifica predilezione per la tecnica delle [sketchnote](https://it.pinterest.com/philalb3rtin/sketchnotes) (che utilizzo a profusione sia nella consulenza che nella didattica).
+Filippo Albertin, classe 1975, padovano di nascita, vicentino di adozione. Di formazione sia artistica (pianista e compositore conservatoriale) che economico-aziendale, mi sono sempre occupato di progetti, creatività, pensiero laterale, coaching e visual thinking, con una specifica predilezione per la tecnica delle sketchnote, che utilizzo a profusione sia nella consulenza che nella didattica. Sono inoltre un esperto di asset digitali, blockchain e Bitcoin.
 
-Il mio sito ufficiale si collega direttamente al mio [blog principale](http://filippoalbertin.eu), dove in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti. Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](https://bsky.app/profile/filippoalbertin.bsky.social) e su [Mastodon](https://mastodon.social/home). Inoltre scrivo in vari blog ulteriori, come [Creative Phil Blog](https://creativephilblog.wordpress.com/).
+# Professionalmente
 
-Come [Crypto Palm Beach](https://calckey.world/@cryptopalmbeach) utilizzo anche l'istanza del fediverso Calckey. Qui scrivo cose più articolate, rese possibili dai tremila caratteri a disposizione.
+Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli divulgativi in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog), la testata del noto exchange italiano. Miei articoli sono anche stati pubblicati in altri vari magazine del settore.
 
-# In the Bush of Crypto
+# Nel Web
 
-## My job
+Sito ufficiale: [filippoalbertin.eu](http://filippoalbertin.eu) - Qui in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti. Affianco a questo sito anche una sorta di blog principale su Wordpress, [Creative Phil Blog](https://creativephilblog.wordpress.com), dove parlo praticamente di tutto, più un altro blog, [Phil Palm Beach](https://palmbeach.vivaldi.net), di carattere maggiormente estemporaneo e personale, nella community del browser Vivaldi.
 
-Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli divulgativi in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog), la testata del noto exchange italiano.
+Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](https://bsky.app/profile/filippoalbertin.bsky.social) e su [Mastodon](https://mastodon.social/home). Come [Crypto Palm Beach](https://calckey.world/@cryptopalmbeach) utilizzo anche l'istanza del fediverso Calckey. Qui scrivo cose più articolate, rese possibili dai tremila caratteri a disposizione.
+
+# Side Prog Fraction
 
 ## Monero Circular Economy Pledge
 
