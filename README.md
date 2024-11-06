@@ -4,9 +4,7 @@ Filippo Albertin, classe 1975, padovano di nascita, vicentino di adozione. Di fo
 
 Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli divulgativi in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog), la testata del noto exchange italiano. Miei articoli sono anche stati pubblicati in altri vari magazine del settore.
 
-**Per contatti e consulenze:**
-*filippo@bitcoinvenetocenter.it*
-*filippo@completservice.eu*
+**Per contatti e consulenze:** *filippo@bitcoinvenetocenter.it* - *filippo@completservice.eu*
 
 # Nel Web
 
