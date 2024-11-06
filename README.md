@@ -24,4 +24,4 @@ Aderisco con entusiasmo a [questo progetto basato su Monero](https://moneromaste
 
 Ho cofondato un'[associazione culturale](https://ideapolisassociazione.noblogs.org) che tra le moltissime cose promuove anche la cultura della cryptosfera. Nello specifico, il cosiddetto [Post-Cypher Manifesto](https://app.simplenote.com/p/7HGTGF).
 
-Informazioni: *albertin@tuta.io*
+Informazioni: *albertin@tuta.io* - *ideapolis@etik.com*
