@@ -12,6 +12,25 @@ In [creativephil.blog](https://creativephil.blog) annoto le mie considerazioni. 
 
 Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](https://bsky.app/profile/filippoalbertin.bsky.social) e su [Mastodon](https://mastodon.social/home). Come [Crypto Palm Beach](https://calckey.world/@cryptopalmbeach) utilizzo anche l'istanza del fediverso Calckey. Qui scrivo cose più articolate, rese possibili dai tremila caratteri a disposizione.
 
+# Portfolio Articoli Crypto e Blockchain
+
+* https://cryptosmart.it/pagina/tasse-su-crypto-in-italia-dal-26-al-42 (17 ottobre 2024)
+* https://cryptosmart.it/pagina/esma-e-mica-aggiornamento-crypto-attivita (18 ottobre 2024)
+* https://cryptosmart.it/pagina/polkadot-il-rilancio-novita-innovazioni (19 ottobre 2024)
+* https://cryptosmart.it/pagina/rgb-il-protocollo-che-rivoluziona-bitcoin (21 ottobre 2024)
+* https://cryptosmart.it/pagina/treasury-opengov-polkadot-spiegato-facile (22 ottobre 2024)
+* https://cryptosmart.it/pagina/tasse-su-bitcoin-e-interpretazioni (23 ottobre 2024)
+* https://cryptosmart.it/pagina/bitcoin-rivoluzione-tra-valore-e-moneta (24 ottobre 2024)
+* https://cryptosmart.it/pagina/ethereum-e-rivoluzione-mondo-crypto (25 ottobre 2024)
+* https://cryptosmart.it/pagina/criptovalute-definizione-opportunita (27 ottobre 2024)
+* https://cryptosmart.it/pagina/wallet-per-conservare-i-fondi-crypto (28 ottobre 2024)
+* https://cryptosmart.it/pagina/glossario-crypto-le-parole-della-blockchain (29 ottobre 2024)
+* https://cryptosmart.it/pagina/web3-e-metamask-nella-rivoluzione-digitale (30 ottobre 2024)
+* https://cryptosmart.it/pagina/metamask-guida-pratica-alla-chiave-del-web3 (31 ottobre 2024)
+* https://cryptosmart.it/pagina/bitcoin-per-i-paesi-emergenti (02 novembre 2024)
+* https://cryptosmart.it/pagina/tassazione-crypto-italia-aggiornamenti (04 novembre 2024)
+* https://cryptosmart.it/pagina/ethereum-piu-scalabilita-con-l2-e-sidechain (05 novembre 2024)
+
 # Side Prog Fraction
 
 ## Monero Circular Economy Pledge
