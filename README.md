@@ -4,6 +4,8 @@ Filippo Albertin, classe 1975, padovano di nascita, vicentino di adozione. Di fo
 
 Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli divulgativi in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog), la testata del noto exchange italiano. Miei articoli sono anche stati pubblicati in altri vari magazine del settore.
 
+Per contatti e consulenze: *filippo@bitcoinvenetocenter.it* | *filippo@completservice.eu*
+
 # Nel Web
 
 In [creativephil.blog](https://creativephil.blog) annoto le mie considerazioni. Qui in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti. [Phil Palm Beach](https://palmbeach.vivaldi.net) è di carattere maggiormente estemporaneo e personale, nella community del browser Vivaldi. Infine citerei anche il mio [blog su Drummer](http://oldschool.scripting.com/filippoalbertin@gmail.com/), una sorta di ritorno alle origini del blogging.
