@@ -4,7 +4,9 @@ Filippo Albertin, classe 1975, padovano di nascita, vicentino di adozione. Di fo
 
 Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli divulgativi in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog), la testata del noto exchange italiano. Miei articoli sono anche stati pubblicati in altri vari magazine del settore.
 
-Per contatti e consulenze: *filippo@bitcoinvenetocenter.it* | *filippo@completservice.eu*
+**Per contatti e consulenze:**
+*filippo@bitcoinvenetocenter.it*
+*filippo@completservice.eu*
 
 # Nel Web
 
@@ -18,9 +20,7 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184baa19-8841-4044-8a55-4daf34debcd7_800x400.png)
 
-Aderisco con entusiasmo a questo progetto basato su Monero, la più celebre privacy coin.
-
-[MCEP](https://moneromaster.substack.com/p/mcep)
+Aderisco con entusiasmo a [questo progetto basato su Monero](https://moneromaster.substack.com/p/mcep), la più celebre privacy coin.
 
 ## Post Cyber Manifesto
 
