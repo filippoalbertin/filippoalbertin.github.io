@@ -27,7 +27,7 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 * [https://cryptosmart.it/pagina/glossario-crypto-le-parole-della-blockchain](Glossario Crypto) (29 ottobre 2024)
 * [https://cryptosmart.it/pagina/web3-e-metamask-nella-rivoluzione-digitale](Metamask spiegato facile) (30 ottobre 2024)
 * [https://cryptosmart.it/pagina/metamask-guida-pratica-alla-chiave-del-web3](Metamask e Web3) (31 ottobre 2024)
-* [https://cryptosmart.it/pagina/bitcoin-per-i-paesi-emergenti](Bitcoin nelle Economie Emergenti] (02 novembre 2024)
+* [https://cryptosmart.it/pagina/bitcoin-per-i-paesi-emergenti](Bitcoin nelle Economie Emergenti) (02 novembre 2024)
 * [https://cryptosmart.it/pagina/tassazione-crypto-italia-aggiornamenti](Aggiornamenti e Colpi di Scena Tassa Crypto)  (04 novembre 2024)
 * [https://cryptosmart.it/pagina/ethereum-piu-scalabilita-con-l2-e-sidechain](Ethereum Layer2 e Sidechain) (05 novembre 2024)
 
