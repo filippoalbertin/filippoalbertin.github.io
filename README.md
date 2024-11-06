@@ -14,8 +14,9 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 
 # Portfolio Articoli Crypto e Blockchain
 
-* [https://cryptosmart.it/pagina/tasse-su-crypto-in-italia-dal-26-al-42](Tasse su crypto in Italia) (17 ottobre 2024)
-* [https://cryptosmart.it/pagina/esma-e-mica-aggiornamento-crypto-attivita](Rapporti ESMA e MiCA) (18 ottobre 2024)
+* [https://cryptosmart.it/pagina/tasse-su-crypto-in-italia-dal-26-al-42](Tasse su crypto in Italia) - 17 ottobre 2024
+* [https://cryptosmart.it/pagina/esma-e-mica-aggiornamento-crypto-attivita](Rapporti ESMA e MiCA) - 18 ottobre 2024
+  
 * [https://cryptosmart.it/pagina/polkadot-il-rilancio-novita-innovazioni](Su Polkadot) (19 ottobre 2024)
 * [https://cryptosmart.it/pagina/rgb-il-protocollo-che-rivoluziona-bitcoin](Protocollo RGB Bitcoin) (21 ottobre 2024)
 * [https://cryptosmart.it/pagina/treasury-opengov-polkadot-spiegato-facile](OpenGOV spiegato facile) (22 ottobre 2024)
