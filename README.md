@@ -31,6 +31,7 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 * [Aggiornamenti e Colpi di Scena su Tassa Crypto](https://cryptosmart.it/pagina/tassazione-crypto-italia-aggiornamenti)  (04 novembre 2024)
 * [Ethereum Layer2 e Sidechain](https://cryptosmart.it/pagina/ethereum-piu-scalabilita-con-l2-e-sidechain) (05 novembre 2024)
 * [Mining Bitcoin e Opportunità](https://cryptosmart.it/pagina/guadagnare-bitcoin-le-opportunita-del-mining) (07 novembre 2024)
+* [ATH Bitcoin ed Elezioni in USA](https://cryptosmart.it/pagina/notizie-bitcoin-stati-uniti-elezioni) (07 novembre 2024)
 
 # Side Prog Fraction
 
