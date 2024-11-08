@@ -8,6 +8,8 @@ Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin V
 
 # Nel Web
 
+Blog principale: [filippoalbertin.me](http://filippoalbertin.me)
+
 In [creativephil.blog](https://creativephil.blog) annoto le mie considerazioni. Qui in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti. [Phil Palm Beach](https://palmbeach.vivaldi.net) è di carattere maggiormente estemporaneo e personale, nella community del browser Vivaldi. Infine citerei anche il mio [blog su Drummer](http://oldschool.scripting.com/filippoalbertin@gmail.com/), una sorta di ritorno alle origini del blogging.
 
 Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](https://bsky.app/profile/filippoalbertin.bsky.social) e su [Mastodon](https://mastodon.social/home). Come [Crypto Palm Beach](https://calckey.world/@cryptopalmbeach) utilizzo anche l'istanza del fediverso Calckey. Qui scrivo cose più articolate, rese possibili dai tremila caratteri a disposizione.
