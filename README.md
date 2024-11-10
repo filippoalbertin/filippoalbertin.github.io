@@ -36,6 +36,7 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 * [ATH Bitcoin ed Elezioni in USA](https://cryptosmart.it/pagina/notizie-bitcoin-stati-uniti-elezioni) (07 novembre 2024)
 * [Euro Digitale e CBDC](https://cryptosmart.it/pagina/euro-digitale-e-cbdc-un-approfondimento) (08 novembre 2024)
 * [Metaverso e Crypto, le opportunità del settore](https://cryptosmart.it/pagina/metaverso-crypto-definizione-opportunita) (09 novembre 2024)
+* [Tokenomics Crypto e Indicatori di Investimento](https://cryptosmart.it/pagina/tokenomics-crypto-indicatori-per-investire) (10 novembre 2024)
 
 # Side Prog Fraction
 
