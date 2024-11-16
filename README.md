@@ -42,6 +42,7 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 * [Electrum Wallet Bitcoin Come Usarlo](https://cryptosmart.it/pagina/electrum-wallet-guida-pratica) (13 novembre 2024)
 * [Trust Wallet Come Usarlo](https://cryptosmart.it/pagina/trust-wallet-guida-pratica) (14 novembre 2024)
 * [Argent Wallet Come Usarlo](https://cryptosmart.it/pagina/wallet-crypto-il-caso-argent) (15 novembre 2024)
+* [Wallet Crypto Hot e Cold Come Usarli](https://cryptosmart.it/pagina/wallet-crypto-differenza-tra-hot-e-cold-e-guida-alluso) (16 novembre 2024)
   
 # Side Prog Fraction
 
