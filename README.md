@@ -43,6 +43,8 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 * [Trust Wallet Come Usarlo](https://cryptosmart.it/pagina/trust-wallet-guida-pratica) (14 novembre 2024)
 * [Argent Wallet Come Usarlo](https://cryptosmart.it/pagina/wallet-crypto-il-caso-argent) (15 novembre 2024)
 * [Wallet Crypto Hot e Cold Come Usarli](https://cryptosmart.it/pagina/wallet-crypto-differenza-tra-hot-e-cold-e-guida-alluso) (16 novembre 2024)
+* [ADA Cardano Spiegato Facile](https://cryptosmart.it/pagina/ada-cardano-blockchain-terza-generazione) (19 novembre 2024)
+* [Stablecoin Spiegate Facile](https://cryptosmart.it/pagina/stablecoin-crypto-contro-la-volatilita) (19 novembre 2024)
   
 # Side Prog Fraction
 
