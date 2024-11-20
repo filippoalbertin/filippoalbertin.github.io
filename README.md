@@ -8,7 +8,7 @@ Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin V
 
 # Nel Web
 
-Blog principale: [filippoalbertin.me](https://filippoalbertin.me)
+Blog principale: [filippoalbertin.me](https://www.filippoalbertin.me)
 
 In [creativephil.blog](https://creativephil.blog) annoto le mie considerazioni. Qui in sostanza riassumo varie cose che ho trovato nel web, che faccio nel web, che scrivo e che porto avanti. [Phil Palm Beach](https://palmbeach.vivaldi.net) è di carattere maggiormente estemporaneo e personale, nella community del browser Vivaldi. Infine citerei anche il mio [blog su Drummer](http://oldschool.scripting.com/filippoalbertin@gmail.com/), una sorta di ritorno alle origini del blogging.
 
@@ -45,6 +45,7 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 * [Wallet Crypto Hot e Cold Come Usarli](https://cryptosmart.it/pagina/wallet-crypto-differenza-tra-hot-e-cold-e-guida-alluso) (16 novembre 2024)
 * [ADA Cardano Spiegato Facile](https://cryptosmart.it/pagina/ada-cardano-blockchain-terza-generazione) (19 novembre 2024)
 * [Stablecoin Spiegate Facile](https://cryptosmart.it/pagina/stablecoin-crypto-contro-la-volatilita) (19 novembre 2024)
+* [Bitcoin Core](https://cryptosmart.it/pagina/bitcoin-core-governance-decentralizzata) (20 novembre 2024)
   
 # Side Prog Fraction
 
