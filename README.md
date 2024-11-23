@@ -47,6 +47,7 @@ Mi trovate anche su [Twitter/X](https://x.com/creativephil75), su [Bluesky](http
 * [Stablecoin Spiegate Facile](https://cryptosmart.it/pagina/stablecoin-crypto-contro-la-volatilita) (19 novembre 2024)
 * [Bitcoin Core](https://cryptosmart.it/pagina/bitcoin-core-governance-decentralizzata) (20 novembre 2024)
 * [Introduzione al Trading Crypto](https://cryptosmart.it/pagina/trading-crypto-opportunita-minacce) (21 novembre 2024)
+* [Trading e Nuove Tendenze](https://cryptosmart.it/pagina/trading-crypto-ultime-tendenze-e-opportunita) (23 novembre 2024)
   
 # Side Prog Fraction
 
