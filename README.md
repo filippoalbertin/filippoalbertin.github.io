@@ -46,6 +46,7 @@ Di fatto, il mio "sito" (che "sito" non è) a vario titolo *principale* resta Tw
 * [Trading e Nuove Tendenze](https://cryptosmart.it/pagina/trading-crypto-ultime-tendenze-e-opportunita) (23 novembre 2024)
 * [Ethereum Governance](https://cryptosmart.it/pagina/ethereum-governance-dinamismo-e-flessibilita) (25 novembre 2024)
 * [Staking Crypto e Yeld Farming](https://cryptosmart.it/pagina/staking-crypto-e-yield-farming) (26 novembre 2024)
+* [Lending e Borrowing Crypto](https://cryptosmart.it/pagina/lending-e-borrowing-e-guadagno-in-defi) (27 novembre 2024)
   
 # Side Prog Fraction
 
