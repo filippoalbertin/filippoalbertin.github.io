@@ -48,6 +48,8 @@ Di fatto, il mio "sito" (che "sito" non è) a vario titolo *principale* resta Tw
 * [Staking Crypto e Yeld Farming](https://cryptosmart.it/pagina/staking-crypto-e-yield-farming) (26 novembre 2024)
 * [Lending e Borrowing Crypto](https://cryptosmart.it/pagina/lending-e-borrowing-e-guadagno-in-defi) (27 novembre 2024)
 * [Compound Finance Spiegato Facile](https://cryptosmart.it/pagina/compound-finance-guadagni-prestiti-crypto) (28 novembre 2024)
+* [Crypto Truffe Come Riconoscerle](https://cryptosmart.it/pagina/crypto-truffe-riconoscerle-difendersi) (02 dicembre 2024)
+* [Ripple Crypto Bancaria](https://cryptosmart.it/pagina/ripple-una-crypto-per-il-sistema-bancario) (03 dicembre 2024)
   
 # Side Prog Fraction
 
