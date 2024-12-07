@@ -50,6 +50,8 @@ Di fatto, il mio "sito" (che "sito" non è) a vario titolo *principale* resta Tw
 * [Compound Finance Spiegato Facile](https://cryptosmart.it/pagina/compound-finance-guadagni-prestiti-crypto) (28 novembre 2024)
 * [Crypto Truffe Come Riconoscerle](https://cryptosmart.it/pagina/crypto-truffe-riconoscerle-difendersi) (02 dicembre 2024)
 * [Ripple Crypto Bancaria](https://cryptosmart.it/pagina/ripple-una-crypto-per-il-sistema-bancario) (03 dicembre 2024)
+* [La Tecnologia Blockchain Dietro le Crypto](https://cryptosmart.it/pagina/tecnologia-blockchain-hash-decentralizzazione) (05 dicembre 2024)
+* [Bitcoin Raggiunge i Centomila Dollari](https://cryptosmart.it/pagina/bitcoin-supera-i-centomila-dollari) (05 dicembre 2024)
   
 # Side Prog Fraction
 
