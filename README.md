@@ -52,6 +52,8 @@ Di fatto, il mio "sito" (che "sito" non è) a vario titolo *principale* resta Tw
 * [Ripple Crypto Bancaria](https://cryptosmart.it/pagina/ripple-una-crypto-per-il-sistema-bancario) (03 dicembre 2024)
 * [La Tecnologia Blockchain Dietro le Crypto](https://cryptosmart.it/pagina/tecnologia-blockchain-hash-decentralizzazione) (05 dicembre 2024)
 * [Bitcoin Raggiunge i Centomila Dollari](https://cryptosmart.it/pagina/bitcoin-supera-i-centomila-dollari) (05 dicembre 2024)
+
+  **Numerosi altri miei articoli sono sempre reperibili nella sezione [news](https://cryptosmart.it/pagina/category/news) di CryptoSmart Blog.**
   
 # Side Prog Fraction
 
