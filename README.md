@@ -1,16 +1,16 @@
-Filippo Albertin, classe 1975, padovano di nascita, vicentino di adozione. Di formazione sia artistica (pianista e compositore conservatoriale) che economico-aziendale, mi sono sempre occupato di progetti, creatività, pensiero laterale, coaching e visual thinking, con una specifica predilezione per la tecnica delle sketchnote, che utilizzo a profusione sia nella consulenza che nella didattica. Sono inoltre un esperto di asset digitali, blockchain e Bitcoin.
+# Hi there, I'm Filippo Albertin! 👋
 
-# Professionalmente
+## 🌐 Socials
+- [LinkedIn]([https://www.linkedin.com/in/filippoalbertin/](https://www.linkedin.com/in/filippo-albertin-87b2651/)
+- [TwitterX](https://x.com/creativephil75)
 
-Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli divulgativi in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog), la testata del noto exchange italiano. Miei articoli sono anche stati pubblicati in altri vari magazine del settore.
+## 💼 About Me
 
-**Per contatti e consulenze:** *filippo@bitcoinvenetocenter.it* - *filippo@completservice.eu*
+* Crypto coach
+* Consultant in Bitcoin Veneto Team & Complete Service
+* Blogger in CryptoSmart Blog
 
-# Nel Web
-
-Di fatto, il mio "sito" (che "sito" non è) a vario titolo *principale* resta Twitter/X, dove sono [creativephil75](https://x.com/creativephil75) e da dove invio non solo twit, ma anche articoli. Scrivo anche altrove, ma questo "altrove" lo trovate sempre da quelle parti, in forma di aureo link...
-
-# Portfolio Articoli Crypto e Blockchain
+## ✍️ Blog Posts
 
 * [Tasse su Crypto in Italia](https://cryptosmart.it/pagina/tasse-su-crypto-in-italia-dal-26-al-42) (17 ottobre 2024)
 * [Rapporti ESMA e MiCA](https://cryptosmart.it/pagina/esma-e-mica-aggiornamento-crypto-attivita) (18 ottobre 2024)
@@ -54,16 +54,32 @@ Di fatto, il mio "sito" (che "sito" non è) a vario titolo *principale* resta Tw
 * [Bitcoin Raggiunge i Centomila Dollari](https://cryptosmart.it/pagina/bitcoin-supera-i-centomila-dollari) (05 dicembre 2024)
 
 **Numerosi altri miei articoli sono sempre reperibili nella sezione [news](https://cryptosmart.it/pagina/category/news) di CryptoSmart Blog.**
-  
-# Side Prog Fraction
 
-## Monero Circular Economy Pledge
+## 🎓 Education
+
+* Liceo Classico Tito Livio di Padova
+* Facoltà di Economia Università degli Studi di Padova
+* Conservatorio di Musica Cesare Pollini di Padova
+
+## In italiano...
+
+Filippo Albertin, classe 1975, padovano di nascita, vicentino di adozione. Di formazione sia artistica (pianista e compositore conservatoriale) che economico-aziendale, mi sono sempre occupato di progetti, creatività, pensiero laterale, coaching e visual thinking, con una specifica predilezione per la tecnica delle sketchnote, che utilizzo a profusione sia nella consulenza che nella didattica. Sono inoltre un esperto di asset digitali, blockchain e Bitcoin.
+
+## Professionalmente
+
+Sono consulente per [Complet Service](http://www.completservice.eu) e [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Inoltre, scrivo articoli divulgativi in [CryptoSmart Blog](https://cryptosmart.it/crypto-blog), la testata del noto exchange italiano. Miei articoli sono anche stati pubblicati in altri vari magazine del settore.
+
+**Per contatti e consulenze:** *filippo@bitcoinvenetocenter.it* - *filippo@completservice.eu*
+  
+## Side Prog Fraction
+
+### Monero Circular Economy Pledge
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184baa19-8841-4044-8a55-4daf34debcd7_800x400.png)
 
 Aderisco con entusiasmo a [questo progetto basato su Monero](https://moneromaster.substack.com/p/mcep), la più celebre privacy coin.
 
-## Post Cyber Manifesto
+### Post Cyber Manifesto
 
 Ho cofondato un'[associazione culturale](https://ideapolisassociazione.noblogs.org) che tra le moltissime cose promuove anche la cultura della cryptosfera. Nello specifico, il cosiddetto [Post-Cypher Manifesto](https://app.simplenote.com/p/7HGTGF).
 
