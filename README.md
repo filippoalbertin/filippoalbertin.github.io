@@ -1,7 +1,7 @@
 # Hi there, I'm Filippo Albertin! 👋
 
 ## 🌐 Socials
-- [LinkedIn]([https://www.linkedin.com/in/filippoalbertin/](https://www.linkedin.com/in/filippo-albertin-87b2651/)
+- [LinkedIn]([https://www.linkedin.com/in/filippoalbertin/](https://www.linkedin.com/in/filippo-albertin-87b2651)
 - [TwitterX](https://x.com/creativephil75)
 
 ## 💼 About Me
