@@ -1,14 +1,14 @@
-# 🌐 Socials
+# Socials
 - [LinkedIn](https://www.linkedin.com/in/filippo-albertin-87b2651)
 - [TwitterX](https://x.com/creativephil75)
 
-# 💼 About Me
+# About Me
 
 * Crypto coach
 * Consultant in Bitcoin Veneto Team & Complete Service
 * Blogger in CryptoSmart Blog
 
-# ✍️ Blog Posts
+# Miei articoli
 
 * [Tasse su Crypto in Italia](https://cryptosmart.it/pagina/tasse-su-crypto-in-italia-dal-26-al-42) (17 ottobre 2024)
 * [Rapporti ESMA e MiCA](https://cryptosmart.it/pagina/esma-e-mica-aggiornamento-crypto-attivita) (18 ottobre 2024)
@@ -52,12 +52,6 @@
 * [Bitcoin Raggiunge i Centomila Dollari](https://cryptosmart.it/pagina/bitcoin-supera-i-centomila-dollari) (05 dicembre 2024)
 
 **Numerosi altri miei articoli sono sempre reperibili nella sezione [news](https://cryptosmart.it/pagina/category/news) di CryptoSmart Blog.**
-
-# 🎓 Education
-
-* Liceo Classico Tito Livio di Padova
-* Facoltà di Economia Università degli Studi di Padova
-* Conservatorio di Musica Cesare Pollini di Padova
 
 # In estrema sintesi
 
