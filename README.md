@@ -1,4 +1,14 @@
+# About me
+
 Mi occupo di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin. Come consulente collaboro attivamente con l'agenzia di consulenza [Complet Service](http://www.completservice.eu) e il [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Oltre a scrivere abitualmente in magazine online specializzati in crypto, tra i quali [CryptoSmart Official Blog](https://cryptosmart.it/crypto-blog) sono anche presente con un profilo su [LinkedIn](https://www.linkedin.com/in/filippo-albertin-87b2651) e su [TwitterX](https://x.com/creativephil75). Sono anche presente nel [fediverso](https://mastodon.social/@philpalmbeach) e su [BlueSky](https://bsky.app/profile/filippoalbertin.bsky.social).
+
+## Blogging
+
+* https://creativephilblog.wordpress.com
+* https://cryptocypherphil.noblogs.org
+* https://palmbeach.vivaldi.net
+
+Come visual thinker e formatore sono un esperto di sketchnote, che utilizzo come tecnica nel mio lavoro e all'interno dei team.
 
 **Per contatti e consulenze:** *filippo@bitcoinvenetocenter.it* - *filippo@completservice.eu*
   
