@@ -5,7 +5,6 @@ Mi occupo di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin.
 ## Blogging
 
 * [Creative Phil](https://creativephilblog.wordpress.com) (Wordpress)
-* [Crypto Cypher Phil Palm Beach](https://cryptocypherphil.noblogs.org) (Noblogs)
 * [PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
 
 Come visual thinker e formatore sono un esperto di sketchnote, che utilizzo come tecnica nel mio lavoro e all'interno dei team.
