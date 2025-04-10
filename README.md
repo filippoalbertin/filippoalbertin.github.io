@@ -4,12 +4,12 @@ Mi occupo di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin.
 
 ## Di cosa mi occupo
 
-* Networking tra Nordest (Veneto) e Svizzera (Ticino) in materia di blockchain, criptovalute, operazioni in asset digitali.
+* Networking tra Nord Italia e Svizzera (Ticino) in materia di blockchain.
 * Acquisizioni OTC in crypto, con specifico riferimento a Bitcoin.
 * Consulenze operative per inserire criptovalute in tesoreria aziendale.
-* Formazione di base e avanzata sugli asset digitali e sulla sicurezza in materia.
+* Formazione di base e avanzata sugli asset digitali e sulla sicurezza.
 * Accompagnamento per relocation in area elvetica.
-* Mediazione per sottoscrizione prodotti speculativi a base crypto e DeFi.
+* Mediazione per sottoscrizione fondi speculativi crypto e DeFi.
 
 ## Miei blog
 
