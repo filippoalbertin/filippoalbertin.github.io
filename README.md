@@ -1,18 +1,21 @@
 # About me
 
-Mi occupo di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin. Come consulente collaboro attivamente con l'agenzia di consulenza [Complet Service](http://www.completservice.eu) e il [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Oltre a scrivere abitualmente in magazine online specializzati in crypto, tra i quali [CryptoSmart Official Blog](https://cryptosmart.it/crypto-blog) sono anche presente con un profilo su [LinkedIn](https://www.linkedin.com/in/filippo-albertin-87b2651) e su [TwitterX](https://x.com/creativephil75). Sono anche presente nel [fediverso](https://mastodon.social/@philpalmbeach) e su [BlueSky](https://bsky.app/profile/filippoalbertin.bsky.social).
+Mi occupo di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin. Come consulente collaboro attivamente con l'agenzia di consulenza [Complet Service](http://www.completservice.eu) e il [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Oltre a scrivere abitualmente in magazine online specializzati in crypto, tra i quali la testata dell'exchange 100% italiano [CryptoSmart](https://cryptosmart.it/crypto-blog) sono anche attivo con un profilo su [LinkedIn](https://www.linkedin.com/in/filippo-albertin-87b2651) e su [TwitterX](https://x.com/creativephil75). Sono anche presente nel [fediverso](https://mastodon.social/@philpalmbeach) e su [BlueSky](https://bsky.app/profile/filippoalbertin.bsky.social).
 
-## Blogging
+## Di cosa mi occupo
 
-* [Creative Phil](https://creativephilblog.wordpress.com) (Wordpress)
+* Networking tra Nordest (Veneto) e Svizzera (Ticino) in materia di blockchain, criptovalute, operazioni in asset digitali.
+* Acquisizioni OTC in crypto, con specifico riferimento a Bitcoin.
+* Consulenze operative per inserire criptovalute in tesoreria aziendale.
+* Formazione di base e avanzata sugli asset digitali e sulla sicurezza in materia.
+* Accompagnamento per relocation in area elvetica.
+* Mediazione per sottoscrizione prodotti speculativi a base crypto e DeFi.
+
+## Miei blog
+
+* [Creative Phil Blog](https://creativephilblog.wordpress.com) (Wordpress)
 * [PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
 
 Come visual thinker e formatore sono un esperto di sketchnote, che utilizzo come tecnica nel mio lavoro e all'interno dei team.
 
 **Per contatti e consulenze:** *filippo@bitcoinvenetocenter.it* - *filippo@completservice.eu*
-  
-# Monero Circular Economy Pledge
-
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184baa19-8841-4044-8a55-4daf34debcd7_800x400.png)
-
-Aderisco con entusiasmo a [questo progetto basato su Monero](https://moneromaster.substack.com/p/mcep), la più celebre privacy coin.
