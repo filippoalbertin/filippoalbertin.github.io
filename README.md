@@ -4,7 +4,9 @@
 
 Classe 1975, padovano di nascita, ora vicentino.
 
-Sposato con Elena, insegnante e blogger. Due gatti al seguito, Merlino e Selene.
+Sposato con Elena, insegnante, ballerina e blogger.
+
+Due gatti al seguito, Merlino e Selene.
 
 Ho una duplice formazione: da un lato economica e aziendalistica, con specializzazione in organizzazioni e tecniche di management mediate dal lateral thinking e creative problem solving; dall'altro lato artistica, in quanto sono pianista e compositore conservatoriale, con prestigiose collaborazioni nel campo del teatro e delle arti performative.
 
