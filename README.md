@@ -2,7 +2,11 @@
 
 ![Filippo Albertin](https://creativephilblog.wordpress.com/wp-content/uploads/2025/04/cropped-ubtw6adp_400x400-removebg-preview.png)
 
-Classe 1975, padovano di nascita, ora vicentino, ho una duplice formazione: da un lato economica e aziendalistica, con specializzazione in organizzazioni e tecniche di management mediate dal lateral thinking e creative problem solving; dall'altro lato artistica, in quanto sono pianista e compositore conservatoriale, con prestigiose collaborazioni nel campo del teatro e delle arti performative.
+Classe 1975, padovano di nascita, ora vicentino.
+
+Sposato con Elena, insegnante e blogger. Due gatti al seguito, Merlino e Selene.
+
+Ho una duplice formazione: da un lato economica e aziendalistica, con specializzazione in organizzazioni e tecniche di management mediate dal lateral thinking e creative problem solving; dall'altro lato artistica, in quanto sono pianista e compositore conservatoriale, con prestigiose collaborazioni nel campo del teatro e delle arti performative.
 
 Mi occupo in particolare di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin. Come consulente collaboro attivamente con l'agenzia di consulenza [Complet Service](http://www.completservice.eu) e il [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Oltre a scrivere abitualmente in magazine online specializzati in crypto, tra i quali la testata dell'exchange 100% italiano [CryptoSmart](https://cryptosmart.it/crypto-blog) sono anche attivo con un profilo su [LinkedIn](https://www.linkedin.com/in/filippo-albertin-87b2651) e su [TwitterX](https://x.com/creativephil75). Sono anche presente nel [fediverso](https://mastodon.social/@philpalmbeach) e su [BlueSky](https://bsky.app/profile/filippoalbertin.bsky.social).
 
