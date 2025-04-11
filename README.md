@@ -22,6 +22,8 @@ Come visual thinker e formatore sono un esperto di sketchnote, tecnica che utili
 
 **Per contatti e consulenze:**
 
-*filippo@bitcoinvenetocenter.it* | *filippo@completservice.eu*
+*filippo@bitcoinvenetocenter.it*
+
+*filippo@completservice.eu*
 
 Mobile (Whatsapp, Telegram, Signal, etc...): +39 350 511 2899
