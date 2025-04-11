@@ -28,7 +28,11 @@ Sono blogger praticamente da quando esistono i blog. Nello specifico mi capita d
 * [Creative Phil Blog](https://creativephilblog.wordpress.com) (Wordpress)
 * [PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
 
+## Visual thinking e creative problem solving
+
 Come visual thinker e formatore sono un esperto di sketchnote, tecnica che utilizzo come tecnica nel mio lavoro e all'interno dei team coi quali interagisco. Le mie sketchnote sono disseminate un po' ovunque, ma a titolo esemplificativo può essere utile questa [board di Pinterest](https://it.pinterest.com/philalb3rtin/sketchnotes/), dove ne ho raccolte alcune in una sorta di portfolio.
+
+Più in generale, inserisco queste tecniche all'interno di un vero e proprio ciclo di esperienze che ho condotto a partire dai primi anni Duemila assieme a formatori, consulenti, studi e professionisti nell'ambito del pensiero creativo come metodo di problem solving.
 
 ## Per contattarmi
 
