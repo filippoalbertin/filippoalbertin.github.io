@@ -13,9 +13,15 @@ Mi occupo di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin.
 
 ## Miei blog
 
+Sono blogger praticamente da quando esistono i blog. Nello specifico mi capita di aggiornarne due: il primo, su Wordpress, tende ad essere una pubblicazione molto generale, dove parlo di me stesso e degli interessi che muovono sia il mio lavoro che più in generale le mie interazioni; il secondo, ospitato nella community del browser *privacy oriented* Vivaldi, somiglia più a un blog classico e personale, dove mi concentro su tematiche più estemporanee: serie TV, viaggi, amore per la specie felina, e via discorrendo...
+
 * [Creative Phil Blog](https://creativephilblog.wordpress.com) (Wordpress)
 * [PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
 
-Come visual thinker e formatore sono un esperto di sketchnote, che utilizzo come tecnica nel mio lavoro e all'interno dei team.
+Come visual thinker e formatore sono un esperto di sketchnote, tecnica che utilizzo come tecnica nel mio lavoro e all'interno dei team coi quali interagisco.
 
-**Per contatti e consulenze:** *filippo@bitcoinvenetocenter.it* - *filippo@completservice.eu*
+**Per contatti e consulenze:**
+
+*filippo@bitcoinvenetocenter.it* | *filippo@completservice.eu*
+
+Mobile (Whatsapp, Telegram, Signal, etc...): +39 350 511 2899
