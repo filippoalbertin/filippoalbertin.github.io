@@ -8,6 +8,8 @@ Sposato con Elena, insegnante, ballerina e blogger.
 
 Due gatti al seguito, Merlino e Selene.
 
+![Merlino e Selene](https://social-cdn.vivaldi.net/system/media_attachments/files/113/446/695/694/146/745/original/f2d928560d6e2639.jpg)
+
 Ho una duplice formazione: da un lato economica e aziendalistica, con specializzazione in organizzazioni e tecniche di management mediate dal lateral thinking e creative problem solving; dall'altro lato artistica, in quanto sono pianista e compositore conservatoriale, con prestigiose collaborazioni nel campo del teatro e delle arti performative.
 
 Mi occupo in particolare di asset digitali, transazioni, fintech, Bitcoin, Altcoin, Stablecoin. Come consulente collaboro attivamente con l'agenzia di consulenza [Complet Service](http://www.completservice.eu) e il [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it). Oltre a scrivere abitualmente in magazine online specializzati in crypto, tra i quali la testata dell'exchange 100% italiano [CryptoSmart](https://cryptosmart.it/crypto-blog) sono anche attivo con un profilo su [LinkedIn](https://www.linkedin.com/in/filippo-albertin-87b2651) e su [TwitterX](https://x.com/creativephil75). Sono anche presente nel [fediverso](https://mastodon.social/@philpalmbeach) e su [BlueSky](https://bsky.app/profile/filippoalbertin.bsky.social).
