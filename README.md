@@ -22,7 +22,7 @@ Sono blogger praticamente da quando esistono i blog. Nello specifico mi capita d
 
 Come visual thinker e formatore sono un esperto di sketchnote, tecnica che utilizzo come tecnica nel mio lavoro e all'interno dei team coi quali interagisco.
 
-**Per contatti e consulenze:**
+## Per contattarmi
 
 *filippo@bitcoinvenetocenter.it*
 
