@@ -26,7 +26,7 @@ Sono blogger praticamente da quando esistono i blog. Nello specifico mi capita d
 
 ## Visual thinking e creative problem solving
 
-Come visual thinker e formatore sono un esperto di sketchnote, tecnica che utilizzo come tecnica nel mio lavoro e all'interno dei team coi quali interagisco. Le mie sketchnote sono disseminate un po' ovunque, ma a titolo esemplificativo può essere utile questa [board di Pinterest](https://it.pinterest.com/philalb3rtin/sketchnotes/), dove ne ho raccolte alcune in una sorta di portfolio.
+Come visual thinker e formatore sono un esperto di sketchnote, tecnica che utilizzo come tecnica nel mio lavoro e all'interno dei team coi quali interagisco. Le mie sketchnote sono disseminate un po' ovunque, ma a titolo esemplificativo può essere utile questa [board di Pinterest](https://it.pinterest.com/philalb3rtin/sketchnotes/), dove ho raccolto una sorta di portfolio. *(Mike Rohde, l'ideatore di questa [tecnica](https://rohdesign.com/), tempo fa mi disse che "ho stile"...)*
 
 Più in generale, queste tecniche discendono da un vero e proprio ciclo di esperienze che ho condotto a partire dai primi anni Duemila assieme a formatori, consulenti, studi e professionisti nell'ambito del pensiero creativo come metodo di problem solving. Non si tratta di un frangente isolato, ma di una vera e propria *filosofia metodologica* che continuo ad applicare come componente fondamentale della mia cassetta attrezzi.
 
