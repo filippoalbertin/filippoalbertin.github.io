@@ -14,6 +14,8 @@ Attualmente mi occupo soprattutto di **asset digitali**, transazioni, fintech, (
 * Formazione di base e avanzata sugli asset digitali e sulla sicurezza.
 * Accompagnamento per relocation in area elvetica.
 * Mediazione per sottoscrizione fondi speculativi crypto e DeFi.
+* Mediazione tra cliente e gestori fiduciari di fondi.
+* Qualsiasi operazione implementabile *in* e *con* criptomoneta.
 
 ## Miei blog
 
