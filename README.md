@@ -1,6 +1,4 @@
-# About me
-
-![Filippo Albertin](https://creativephilblog.wordpress.com/wp-content/uploads/2025/04/cropped-ubtw6adp_400x400-removebg-preview.png)
+# Su di me
 
 Classe 1975, padovano di nascita, ora vicentino. Sposato con Elena, insegnante, ballerina e blogger. Due gatti al seguito, [Merlino e Selene](https://social-cdn.vivaldi.net/system/media_attachments/files/113/446/695/694/146/745/original/f2d928560d6e2639.jpg).
 
