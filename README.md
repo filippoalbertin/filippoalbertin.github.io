@@ -24,6 +24,8 @@ Sono blogger praticamente da quando esistono i blog. Nello specifico mi capita d
 * [Creative Phil Blog](https://creativephilblog.wordpress.com) (Wordpress)
 * [PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
 
+Su [Medium](https://medium.com/@filippoalbertin75) tengo invece una sorta di *versione estesa* e giornalistica degli altri miei account, soffermandomi su questioni tecniche, approfondimenti e rilanci di articoli e relativi ragionamenti, quasi sempre legati a mercati, cryptosfera, Bitcoin, Altcoin, Stablecoin, blockchain, intelligenza artificiale e tematiche di management evoluto.
+
 ## Visual thinking e creative problem solving
 
 Come visual thinker e formatore sono un esperto di sketchnote, tecnica che utilizzo come tecnica nel mio lavoro e all'interno dei team coi quali interagisco. Le mie sketchnote sono disseminate un po' ovunque, ma a titolo esemplificativo può essere utile questa [board di Pinterest](https://it.pinterest.com/philalb3rtin/sketchnotes/), dove ho raccolto una sorta di portfolio. *(Mike Rohde, l'ideatore di questa [tecnica](https://rohdesign.com/), tempo fa mi disse che "ho stile"...)*
