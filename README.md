@@ -19,7 +19,7 @@ Attualmente mi occupo soprattutto di **asset digitali**, transazioni, fintech, (
 
 ## Miei blog
 
-Sono blogger praticamente da quando esistono i blog. Nello specifico mi capita di aggiornarne due: il primo, su Wordpress, tende ad essere una pubblicazione molto generale, dove parlo di me stesso e degli interessi che muovono sia il mio lavoro che più in generale le mie interazioni; il secondo, ospitato nella community del browser *privacy oriented* Vivaldi, somiglia più a un blog classico e personale, dove mi concentro su tematiche più estemporanee: serie TV, viaggi, amore per la specie felina, e via discorrendo...
+Sono blogger praticamente da quando esistono i blog.
 
 [PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
 
