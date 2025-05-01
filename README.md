@@ -21,8 +21,7 @@ Attualmente mi occupo soprattutto di **asset digitali**, transazioni, fintech, (
 
 Sono blogger praticamente da quando esistono i blog. Nello specifico mi capita di aggiornarne due: il primo, su Wordpress, tende ad essere una pubblicazione molto generale, dove parlo di me stesso e degli interessi che muovono sia il mio lavoro che più in generale le mie interazioni; il secondo, ospitato nella community del browser *privacy oriented* Vivaldi, somiglia più a un blog classico e personale, dove mi concentro su tematiche più estemporanee: serie TV, viaggi, amore per la specie felina, e via discorrendo...
 
-* [Creative Phil Blog](https://creativephilblog.wordpress.com) (Wordpress)
-* [PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
+[PalmBeach](https://palmbeach.vivaldi.net) (Vivaldi Community)
 
 Su [Medium](https://medium.com/@filippoalbertin75) tengo invece una sorta di *versione estesa* e giornalistica degli altri miei account, soffermandomi su questioni tecniche, approfondimenti e rilanci di articoli e relativi ragionamenti, quasi sempre legati a mercati, cryptosfera, Bitcoin, Altcoin, Stablecoin, blockchain, intelligenza artificiale e tematiche di management evoluto.
 
