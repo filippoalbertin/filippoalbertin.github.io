@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Sono un consulente globale che si occupa di asset digitali e blockchain. Collaboro in progetti come [CompletService](http://www.completservice.eu) e [CryptoSmart](http://www.cryptosmart.it). Faccio parte del [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it).
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Vivo a Vicenza, con mia moglie Elena e due gatti, Merlino e Selene.
