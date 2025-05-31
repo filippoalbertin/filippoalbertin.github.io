@@ -1,42 +1,63 @@
-title: "Filippo Albertin Git Blog"
-author: "Filippo Albertin"
-description: "Opinioni e Connessioni" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+# Configurazione Jekyll per tema Hacker
+title: Filippo Albertin Git Blog
+description: Opinioni e Connessioni
+url: "https://filippoalbertin.github.io" # URL del tuo sito GitHub Pages
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
-email: "albertin@tuta.io"
-twitter_username: "creativephil75"
-github_username: "filippoalbertin"
-# linkedin_username: "username"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+# Tema
+theme: jekyll-theme-hacker
+# Alternativa per GitHub Pages:
+# remote_theme: pages-themes/hacker@v0.2.0
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
+# Informazioni autore
+author:
+  name: Filippo Albertin
+  email: albertin@tuta.io
 
-rss: rss
+# Social links (opzionali)
+github_username: filippoalbertin
+twitter_username: creativephil75
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
+# Configurazioni build
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+
+# Plugin supportati da GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
-titles_from_headings:
-  strip_title: true
-  collections: true
+# Esclusioni
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
 
+# Configurazione kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+# Configurazione dei post
 defaults:
   - scope:
       path: ""
-      type: post
+      type: "posts"
     values:
-      tags: Other
+      layout: "post"
+      author: "Il Tuo Nome"
+
+# SEO e metadata
+lang: it
+timezone: Europe/Rome
+
+# GitHub Pages specifico
+github: [metadata]
