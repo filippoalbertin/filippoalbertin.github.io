@@ -6,7 +6,7 @@ Il mondo della comunicazione *one to many* è in crisi. Inutile negarlo: da qual
 
 Sulla scia del metodo citato, vorrei proporre a me stesso qualcosa per definire l'uso di due ambiti: da un lato il **microblogging nel fediverso** (o quasi fediverso), e dall'altro lato il campo di **blog residui**, come per esempio quello che tengo nell'ecosistema del browser Vivaldi, oppure Tumblr.
 
-* https://palmbeach.vivaldi.net - Non ho ancora capito come usarlo. Ma mi piace. Dovrei forse distribuire un sondaggio per carpire idee altrui?
-* https://social.vivaldi.net/@palmbeach_1 - Praticamente la versione *mastodontica* del sopraccitato. Anche in questo caso, da collocare.
-* https://mastodon.social/@philpalmbeach - Il mio fediverso standard, che uso, ma che non ha ancora un carattere specifico.
-* https://phillogbook.tumblr.com - Piattaforma incredibilmente versatile, ma ancora in cerca d'autore, direi.
+* [https://palmbeach.vivaldi.net] - Non ho ancora capito come usarlo. Ma mi piace. Dovrei forse distribuire un sondaggio per carpire idee altrui?
+* [https://social.vivaldi.net/@palmbeach_1] - Praticamente la versione *mastodontica* del sopraccitato. Anche in questo caso, da collocare.
+* [https://mastodon.social/@philpalmbeach] - Il mio fediverso standard, che uso, ma che non ha ancora un carattere specifico.
+* [https://phillogbook.tumblr.com] - Piattaforma incredibilmente versatile, ma ancora in cerca d'autore, direi.
