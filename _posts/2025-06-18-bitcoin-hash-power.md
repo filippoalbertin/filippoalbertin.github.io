@@ -4,7 +4,9 @@
 
 L'exchange 100% italiano [CryptoSmart](https://cryptosmart.it) ha da qualche tempo lanciato un progetto veramente avvenieristico legato al **mining di Bitcoin**, che sfrutta la versatilità degli smart contract per distribuire utili dell'attività di creazione di nuovi satoshi attraverso un sistema totalmente automatizzato, gestibile in comodità dalla plancia di comando dell'exchange stesso.
 
-Per accedere al servizio basta semplicemente comprare una certa quantità di token BHP, e metterlo in staking attraverso le semplicissime istruzioni in piattaforma. Ogni sabato ci si vedrà remunerare, **direttamente in BTC**, sulla base della potenza di calcolo generata dal novero dei token acquistati. Punto, fine, stop.
+**In sostanza, chiunque può da oggi diventare miner Bitcoin!**
+
+Per accedere al servizio basta semplicemente comprare una certa quantità di token BHP, e metterlo in staking attraverso le semplicissime istruzioni in piattaforma. Ogni sabato ci si vedrà remunerati, **direttamente in BTC**, sulla base della potenza di calcolo generata dal novero dei token acquistati. Punto, fine, stop. Nessuna complicazione tecnica, nessuna manutenzione da effettuare sulle macchine, niente di niente. *Solo satoshi sonanti che vengono guadagnati...*
 
 L'attività di mining è puntualmente descritta nella [**pagina ufficiale del progetto**](https://bitcoinhash.io), che spiega con dovizia di particolari l'ubicazione dei macchinari nelle varie zone del pianeta, le energie impiegate per estrarre i BTC (tutte fonti rinnovabili, geotermiche, eoliche, idroelettriche) e la società che gestisce l'attività.
 
