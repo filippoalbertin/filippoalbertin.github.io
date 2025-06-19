@@ -1,5 +1,7 @@
 # Progetto Bitcoin Hashpower: ovvero Mining per Chiunque Facile e Senza Pensieri!
 
+![](https://bitcoinhash.io/wp-content/uploads/2024/01/bitcoinhash_15247-1536x610.png)
+
 L'exchange 100% italiano [CryptoSmart](https://cryptosmart.it) ha da qualche tempo lanciato un progetto veramente avvenieristico legato al **mining di Bitcoin**, che sfrutta la versatilità degli smart contract per distribuire utili dell'attività di creazione di nuovi satoshi attraverso un sistema totalmente automatizzato, gestibile in comodità dalla plancia di comando dell'exchange stesso.
 
 Per accedere al servizio basta semplicemente comprare una certa quantità di token BHP, e metterlo in staking attraverso le semplicissime istruzioni in piattaforma. Ogni sabato ci si vedrà remunerare, **direttamente in BTC**, sulla base della potenza di calcolo generata dal novero dei token acquistati. Punto, fine, stop.
