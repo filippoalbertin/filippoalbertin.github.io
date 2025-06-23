@@ -11,3 +11,5 @@ Vivo a Vicenza, con mia moglie Elena e due gatti, Merlino e Selene.
 * Per consulenze generali: **filippo@completservice.eu**
 * Per consulenze su Bitcoin e blockchain: **filippo@bitcoinvenetocenter.it**
 * Per comunicare direttamente con me: **albertin@tuta.io**
+
+[Prenota una call per conoscerci](https://calendly.com/filippoalbertin/new-meeting)
