@@ -1,4 +1,4 @@
-# Progetto Bitcoin Hashpower: ovvero Mining per Chiunque Facile e Senza Pensieri attraverso la Tokenizzazione
+# Bitcoin Hashpower: Mining per Tutti
 
 ![](https://5.imimg.com/data5/SELLER/Default/2024/4/410157253/WC/OX/AI/183881023/bitcoin-mining-machine.jpg)
 
