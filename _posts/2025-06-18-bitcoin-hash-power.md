@@ -1,6 +1,6 @@
 # Progetto Bitcoin Hashpower: ovvero Mining per Chiunque Facile e Senza Pensieri attraverso la Tokenizzazione
 
-![](https://blockworks.co/_next/image?url=https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2024%2F01%2Fbitcoin-mining-rigs.jpg&w=1920&q=75)
+![](https://5.imimg.com/data5/SELLER/Default/2024/4/410157253/WC/OX/AI/183881023/bitcoin-mining-machine.jpg)
 
 L'exchange 100% italiano [CryptoSmart](https://cryptosmart.it) ha da qualche tempo lanciato un progetto veramente avvenieristico legato al **mining di Bitcoin**, che sfrutta la versatilità degli smart contract per distribuire utili dell'attività di creazione di nuovi satoshi attraverso un sistema totalmente automatizzato, gestibile in comodità dalla plancia di comando dell'exchange stesso.
 
