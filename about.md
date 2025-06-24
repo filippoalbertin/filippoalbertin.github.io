@@ -23,3 +23,7 @@ La piattaforma Tumblr è molto particolare, in quanto veicola il cosiddetto *tum
 ### [Vivaldi Community: Phil Palm Beach](https://palmbeach.vivaldi.net)
 
 Questo blog è molto particolare, in quanto viene ospitato dalla comunità relativa al celebre browser Vivaldi. Visto che c'era la possibilità di avere un blog, l'ho sfruttata appieno, tanto che per molti versi questo potrebbe essere considerato il mio *effettivo blog personale*, dove posto opinioni, passioni, recensioni di libri e film, e via discorrendo. **Si tratta di un blog assolutamente vecchio stile..** Da notare che questa community offre anche un [parallelo servizio nel fediverso](https://social.vivaldi.net/@palmbeach_1), che possiedo, ma che uso abbastanza poco.
+
+### [Non Euclideo](https://noneuclideo.noblogs.org)
+
+Tutto quello di cui non parlo altrove lo dirotto nel mio "quasi anonimo" blog su Noblogs, piattaforma spesso usata per l'attivismo, per effetto del suo basso livello di censura. Si tratta tuttavia di un blog molto sperimentale, che probabilmente considero più un luogo per scrivere *pamphlet elettronici* che altro. L'idea stessa di una comunicazione one-to-many, pure in un blog che si definisce appunto "non euclideo", è per molti versi un'aporia. **In ogni caso mi andava di citarlo, visto che di certo lo userò in qualche modo...**
