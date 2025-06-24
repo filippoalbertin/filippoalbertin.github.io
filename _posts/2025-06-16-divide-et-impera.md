@@ -1,4 +1,4 @@
-# Divide et Impera: Ragioni del Mio Nuovo Blog e Ragionamenti Annessi
+# Divide et Impera Web Edition
 
 La celebre espressione latina *divide et impera* allude a un meccanismo irrinunciabile nel management, specialmente se parliamo di persone come me, che fanno tante (troppe) cose. Da questo punto di vista ho trovato illuminante la creazione del mio nuovo blog [*Non Euclideo*](https://noneuclideo.noblogs.org), nella truce piattaforma di Noblogs. Volevo un luogo dove raccogliere tutte le mie esternazioni più lontane dai miei contesti strettamente professionali.
 
