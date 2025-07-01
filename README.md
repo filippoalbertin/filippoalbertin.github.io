@@ -10,5 +10,5 @@ Come giornalista economico e tecnologico scrivo su [CryptoSmart News](https://cr
 
 * Mobile e messenger (Telegram, Whatsapp, Signal): +39 350 511 2899
 * filippo@bitcoinvenetocenter.it
-* filippo@completservice.it
+* filippo@completservice.eu
 * albertin@tuta.io
