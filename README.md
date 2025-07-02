@@ -14,3 +14,14 @@ Come giornalista economico e tecnologico scrivo su [CryptoSmart News](https://cr
 * Per consulenze: filippo@bitcoinvenetocenter.it - filippo@completservice.eu
 * Contatto privato: albertin@tuta.io
 * [Prenota una call gratuita](https://calendly.com/filippoalbertin/new-meeting)
+
+---
+
+## Presenza nel Web
+
+A parte la scrittura professionale in siti specializzati, la mia presenza nel Web è facilmente leggibile nel mio [profilo Github](https://github.com/filippoalbertin), dove riporto i principali social network e affini dove prendo appunti in modalità pubblica. In aggiunta, scrivo anche su:
+
+* [Phil Palm Beach](https://palmbeach.vivaldi.net/), un blog del tutto personale ospitato nella community del browser Vivaldi;
+* [Non Euclideo](https://noneuclideo.noblogs.org/), un blog più strutturato dove affronto temi alternativi;
+* [BlueSky](https://bsky.app/profile/filippoalbertin.bsky.social), piattaforma di microblogging orientata alla decentralizzazione;
+* [Mastodon Social](https://mastodon.social/@philpalmbeach), microblogging più articolato, nel fediverso.
