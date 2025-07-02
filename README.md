@@ -15,8 +15,6 @@ Come giornalista economico e tecnologico scrivo su [CryptoSmart News](https://cr
 * Contatto privato: albertin@tuta.io
 * [Prenota una call gratuita](https://calendly.com/filippoalbertin/new-meeting)
 
----
-
 ## Presenza nel Web
 
 A parte la scrittura professionale in siti specializzati, la mia presenza nel Web è facilmente leggibile nel mio [profilo Github](https://github.com/filippoalbertin), dove riporto i principali social network e affini dove prendo appunti in modalità pubblica. In aggiunta, scrivo anche su:
