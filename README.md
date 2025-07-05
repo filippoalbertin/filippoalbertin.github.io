@@ -1,5 +1,9 @@
 # Filippo Albertin
 
+* [Chi sono](#presentazione]
+* [Come contattarmi](#contatti)
+* [Dove sono nel Web](#presenza-nel-web)
+
 ## Presentazione
 
 Classe 1975, padovano di nascita, vicentino di adozione. Duplice formazione: da un lato economista aziendale con specializzazione in organizzazioni e management, dall'altro artista (pianista, compositore). Dai primi anni Duemila, esperto di lateral e visual thinking, con numerosi progetti e contatti all'attivo. Dal 2016, esperto di Bitcoin e blockchain.
