@@ -6,7 +6,7 @@ Classe 1975, padovano di nascita, vicentino di adozione. Duplice formazione: da 
 
 Consulente e advisor in [Bitcoin Veneto Center](http://www.bitcoinvenetocenter.it) e [Complet Service](http://www.completservice.eu) su operazioni in criptovalute, viscalità, relocation fiscale e aziendale, rapporti con exchange nazionali e internazionali per operazioni OTC e investimenti a staking, referente veneto per il progetto di mining [Bitcoin Hashpower](https://bitcoinhash.io).
 
-Come giornalista economico e tecnologico scrivo su [CryptoSmart News](https://cryptosmart.it/crypto-blog) di argomenti connessi al mercato e alla cryptosfera, con specifico riferimento a Bitcoin e in generale alle tecnologie blockchain nelle loro molteplici applicazioni.
+Come giornalista economico e tecnologico scrivo su [CryptoSmart News](https://cryptosmart.it/crypto-blog) di argomenti connessi al mercato e alla cryptosfera, con specifico riferimento a Bitcoin e in generale alle tecnologie blockchain nelle loro molteplici applicazioni, sempre messe in relazione al contesto macroeconomico.
 
 ## Contatti
 
