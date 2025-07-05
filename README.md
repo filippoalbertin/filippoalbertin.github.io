@@ -3,6 +3,7 @@
 * [Chi sono](#presentazione)
 * [Come contattarmi](#contatti)
 * [Dove sono nel Web](#presenza-nel-web)
+* [Di cosa mi occupo](#servizi-trattati)
 
 ## Presentazione
 
