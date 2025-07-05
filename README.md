@@ -31,7 +31,7 @@ A parte la scrittura professionale in siti specializzati, la mia presenza nel We
 
 ## Servizi trattati
 
-  ### Finanza, patrimonio e crypto
+### Finanza, patrimonio e crypto
 
   * Formazione base e avanzata su Bitcoin, Altcoin, Stablecoin e blockchain
   * Acquisizioni asset digitali, anche per importi ingenti attraverso operazioni Over the Counter
