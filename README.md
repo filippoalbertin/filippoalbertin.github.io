@@ -1,6 +1,6 @@
 # Filippo Albertin
 
-* [Chi sono](#presentazione]
+* [Chi sono](#presentazione)
 * [Come contattarmi](#contatti)
 * [Dove sono nel Web](#presenza-nel-web)
 
