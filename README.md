@@ -27,3 +27,21 @@ A parte la scrittura professionale in siti specializzati, la mia presenza nel We
 * [Non Euclideo](https://noneuclideo.noblogs.org/), un blog più strutturato dove affronto temi alternativi;
 * [BlueSky](https://bsky.app/profile/filippoalbertin.bsky.social), piattaforma di microblogging orientata alla decentralizzazione;
 * [Mastodon Social](https://mastodon.social/@philpalmbeach), microblogging più articolato, nel fediverso.
+
+## Servizi trattati
+
+  ### Finanza, patrimonio e crypto
+
+  * Formazione base e avanzata su Bitcoin, Altcoin, Stablecoin e blockchain
+  * Acquisizioni asset digitali, anche per importi ingenti attraverso operazioni Over the Counter
+  * Investimenti strutturati in asset digitali, attraverso partnership coi più grandi gestori
+  * Operazioni di ottimizzazione fiscale tramite relocation internazionale
+  * Intermediario per l'accensione di rapporti bancari privilegiati con la Svizzera
+
+### Management
+
+* Grande esperienza nella conduzione di team e gruppi attraverso le più aggiornate tecniche
+* Specializzazione in problem solving e creative problem solving
+* Visual thinking
+* Sketchnote taking come tecnica di comunicazione
+* Business Aware Design
