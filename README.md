@@ -15,11 +15,11 @@ Come giornalista economico e tecnologico scrivo su [CryptoSmart News](https://cr
 
 ## Contatti
 
-* Mobile e messenger (Telegram, Whatsapp, Signal): +39 350 511 2899
-* Per consulenze crypto: filippo@bitcoinvenetocenter.it
-* Per consulenze generali: filippo@completservice.eu
-* Contatto privato: albertin@tuta.io
-* [Prenota una call gratuita](https://calendly.com/filippoalbertin/new-meeting)
+* Mobile e messenger (Telegram, Whatsapp, Signal): **+39 350 511 2899**
+* Per consulenze crypto: **filippo@bitcoinvenetocenter.it**
+* Per consulenze generali: **filippo@completservice.eu**
+* Contatto privato: **albertin@tuta.io**
+* [**Prenota una call gratuita**](https://calendly.com/filippoalbertin/new-meeting)
 
 ## Presenza nel Web
 
