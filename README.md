@@ -19,7 +19,7 @@ Come giornalista economico e tecnologico scrivo su [CryptoSmart News](https://cr
 * Per consulenze crypto: **filippo@bitcoinvenetocenter.it**
 * Per consulenze generali: **filippo@completservice.eu**
 * Contatto privato: **albertin@tuta.io**
-* [**Prenota una call gratuita**](https://calendly.com/filippoalbertin/new-meeting)
+* [Prenota una videocall gratuita](https://calendly.com/filippoalbertin/new-meeting)
 
 ## Presenza nel Web
 
