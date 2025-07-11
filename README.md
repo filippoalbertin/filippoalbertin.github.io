@@ -34,16 +34,16 @@ A parte la scrittura professionale in siti specializzati, la mia presenza nel We
 
 ### Finanza, patrimonio e crypto
 
-  * Formazione base e avanzata su Bitcoin, Altcoin, Stablecoin e blockchain
-  * Acquisizioni asset digitali, anche per importi ingenti attraverso operazioni Over the Counter
-  * Investimenti strutturati in asset digitali, attraverso partnership coi più grandi gestori
-  * Operazioni di ottimizzazione fiscale tramite relocation internazionale
+  * Formazione operativa su Bitcoin, Altcoin, Stablecoin e blockchain, per detenere, utilizzare e proteggere asset digitali
+  * Acquisizioni criptovalute, anche per importi ingenti attraverso operazioni Over the Counter con nostri selezionati partner nazionali e internazionali
+  * Investimenti strutturati in asset digitali, attraverso partnership coi più grandi gestori di fondi crypto e progetti affini
+  * Operazioni di ottimizzazione fiscale tramite relocation internazionale e procedure speciali
   * Intermediario per l'accensione di rapporti bancari privilegiati con la Svizzera
 
 ### Management
 
 * Grande esperienza nella conduzione di team e gruppi attraverso le più aggiornate tecniche
-* Specializzazione in problem solving e creative problem solving
-* Visual thinking
-* Sketchnote taking come tecnica di comunicazione
-* Business Aware Design
+* Specializzazione ventennale in problem solving e creative problem solving
+* Visual thinking applicato
+* Sketchnote taking come tecnica di comunicazione e rappresentazione della complessità
+* Business Aware Design per la creazione e conduzione di progettualità aziendali
